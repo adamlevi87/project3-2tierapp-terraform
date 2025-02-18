@@ -1,0 +1,9 @@
+variable "project_name" {}
+variable "public_sub_1_az1_id" {}
+variable "public_sub_2_az2_id" {}
+variable "igw_id" {}
+variable "vpc_id" {}
+variable "private_sub_1_az1_id" {}
+variable "private_sub_2_az2_id" {}
+variable "private_sub_3_az1_id" {}
+variable "private_sub_4_az2_id" {}

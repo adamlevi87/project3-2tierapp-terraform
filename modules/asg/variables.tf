@@ -1,0 +1,12 @@
+variable "project_name" {}
+variable "ami" {}
+variable "cpu" {}
+variable "key_name" {}
+variable "asg_sg_id" {}
+variable "private_sub_1_az1_id" {}
+variable "private_sub_2_az2_id" {}
+variable "target_group_http_arn" {}
+variable "asg_health_check_type" {}
+variable "desired_capacity" {}
+variable "min_size" {}
+variable "max_size" {}
